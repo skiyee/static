@@ -3,6 +3,21 @@
     "tier": "support",
     "name": "百友",
     "url": "https://github.com/Xiabaiyou",
-    "logo": "https://github.com/Xiabaiyou.png"
+    "logo": "https://sky-static.cc.cd/support/avatar/support/XCX1760700972.jpg",
+    "createdAt": "2026-08-21"
+  },
+  {
+    "tier": "support",
+    "name": "欲瑶琴弦断",
+    "url": "https://oiyo.js.org/support/sponsorship",
+    "logo": "https://sky-static.cc.cd/support/avatar/avatar/support/l112801l.jpg",
+    "createdAt": "2026-09-02"
+  },
+  {
+    "tier": "companion",
+    "name": "技术佬",
+    "url": "https://oiyo.js.org/support/sponsorship",
+    "logo": "https://sky-static.cc.cd/support/avatar/companion/jishulao.jpg",
+    "createdAt": "2026-09-02"
   }
 ]
